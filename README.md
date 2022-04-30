@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... programing 
 - I have learned c/c++ language
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... java and python
 - 📫 How to reach me ...
 
 <!---
