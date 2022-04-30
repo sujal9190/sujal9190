@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sujal9190
 - 👀 I’m interested in ... programing 
-- 🌱 I’m currently learning ... java
+- I have learned c/c++ language
+- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... java and python
 - 📫 How to reach me ...
 
