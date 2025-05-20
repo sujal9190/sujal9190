@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programing 
 - I have learned c/c++ language
 - 🌱 I’m currently learning ... python
-- 📫 How to reach me ...
+- 📫 How to reach me ... sujalsalunke9190@gmail.com
 
 <!---
 sujal9190/sujal9190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
