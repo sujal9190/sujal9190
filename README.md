@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sujal9190
-- 👀 I’m interested in ... programing 
-- I have learned c/c++ language
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... DATA 
 - 📫 How to reach me ... sujalsalunke9190@gmail.com
 
 <!---
